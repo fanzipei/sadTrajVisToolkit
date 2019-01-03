@@ -14,4 +14,5 @@ git clone git@github.com:sadsadcool/sadTrajVisToolkit.git
 
 #### 2. install the tool
 cd sadTrajVisToolkit
+
 pip install .
