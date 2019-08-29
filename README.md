@@ -16,3 +16,18 @@ git clone git@github.com:sadsadcool/sadTrajVisToolkit.git
 cd sadTrajVisToolkit
 
 pip install .
+
+## Updates version 0.2
+
+Add multi-user visualization (please see the example for more details)
+
+Add support for pandas dataframe
+
+Add more assertations for error messages
+
+Add random_color method to generate random color for multiple user visualization
+
+Create an example file from gowalla public data
+
+
+Enjoy!
