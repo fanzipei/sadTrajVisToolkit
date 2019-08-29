@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='trajvistool',
-      version='0.1',
+      version='0.2',
       description='Toolkit for visualizing human trajectories',
       url='http://github.com/sadsadcool/sadTrajVisToolkit',
       author='Zipei Fan',
