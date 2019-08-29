@@ -4,7 +4,7 @@ Toolkits for trajectory visualization
 ## installation
 #### 0. install dependencies
 
-folium == 0.7
+folium >= 0.7
 
 conda install folium -c conda-forge
 
